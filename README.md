@@ -1,6 +1,9 @@
 # misc
 Some misc stuff, docs, conference materials (the conference materials are mainly in Polish):
 
+# 2023
+ths2023.pdf - presentation at The Hack Summit 2023 Conference. Title: "The Great Seal Bug - Historia, teoria i praktyka"
+
 
 # 2022
 omh2022.pdf - presentation at Oh My H@ck 2022 Conference. Title: "The Great Seal Bug - Historia, teoria i praktyka"
