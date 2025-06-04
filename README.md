@@ -1,6 +1,12 @@
 # misc
 Some misc stuff, docs, conference materials (the conference materials are mainly in Polish):
 
+
+# 2025
+
+confidence2025.pdf - [english] presentation at the Confidence 2025 Conference. Title "Youpot - Where the attacker is the honeypot"
+
+
 # 2023
 ths2023.pdf - presentation at The Hack Summit 2023 Conference. Title: "The Great Seal Bug - Historia, teoria i praktyka"
 
@@ -20,7 +26,7 @@ omh2020.pdf - presentation at Oh My H@ck 2020 Conference. Title: "Etherify, Soni
 
 ths2020.pdf - presentation at The H@ck Summit 2020 Conference. Title: "Jak wyprowadzić dane z komputera niepodłączonego do internetu (nie będąc służbą wywiadowczą supermocarstwa). Soft TEMPEST w domu i w zagrodzie"
 
-rc3_2020.pdf - presentation about etherify at RC3 Conference. Title: "ETHERIFY: Bringing the ether back to ethernet"
+rc3_2020.pdf - [english] presentation about etherify at RC3 Conference. Title: "ETHERIFY: Bringing the ether back to ethernet"
 
 
 # 2019:
