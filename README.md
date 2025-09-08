@@ -4,7 +4,9 @@ Some misc stuff, docs, conference materials (the conference materials are mainly
 
 # 2025
 
-confidence2025.pdf - [english] presentation at the Confidence 2025 Conference. Title "Youpot - Where the attacker is the honeypot"
+confidence2025.pdf - [english] presentation at the Confidence 2025 Conference. Title: "Youpot - Where the attacker is the honeypot"
+
+m17conf2025.pdf - [english] presentation at the M17 2025 Conference. Title: "Introduction to TETRA and its use in amateur radio"
 
 
 # 2023
