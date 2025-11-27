@@ -8,6 +8,10 @@ confidence2025.pdf - [english] presentation at the Confidence 2025 Conference. T
 
 m17conf2025.pdf - [english] presentation at the M17 2025 Conference. Title: "Introduction to TETRA and its use in amateur radio"
 
+bsides2025.pdf - presentation at the Bsides Warsaw 2025 Conference. Title: "Youpot - Agresor jest honeypotem"
+
+ths2025.pdf - presentation at The Hack Summit 2025 Conference. Title: "Youpot - Agresor jest honeypotem"
+
 
 # 2023
 ths2023.pdf - presentation at The Hack Summit 2023 Conference. Title: "The Great Seal Bug - Historia, teoria i praktyka"
