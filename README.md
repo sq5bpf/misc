@@ -1,6 +1,10 @@
 # misc
 Some misc stuff, docs, conference materials (the conference materials are mainly in Polish):
 
+# 2026
+
+confidence2026_rv.pdf - presentation at Conficence 2026 Conference Radio Hacking Village "Co mozna zrobic z radiem bez licencji krotkofalarskiej" 
+
 
 # 2025
 
