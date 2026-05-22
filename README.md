@@ -3,7 +3,7 @@ Some misc stuff, docs, conference materials (the conference materials are mainly
 
 # 2026
 
-confidence2026_rv.pdf - presentation at Conficence 2026 Conference Radio Hacking Village "Co można zrobić z radiem bez licencji krótkofalarskiej" 
+confidence2026_rv.pdf - presentation at Confidence 2026 Conference Radio Hacking Village "Co można zrobić z radiem bez licencji krótkofalarskiej" 
 
 
 # 2025
